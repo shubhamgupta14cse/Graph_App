@@ -35,22 +35,6 @@
     "build-package": "npm run build-package-css && babel src --out-dir dist",
     "now-build": "react-scripts build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/creativetimofficial/material-dashboard-react.git"
-  },
-  "keywords": [],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/creativetimofficial/material-dashboard-react/issues"
-  },
-  "homepage": "https://creativetimofficial.github.io/material-dashboard-react/#/dashboard",
-  "optionalDependencies": {
-    "@types/googlemaps": "3.30.16",
-    "@types/markerclustererplus": "2.1.33",
-    "ajv": "6.9.1"
-  },
   "browserslist": [
     ">0.2%",
     "not dead",
